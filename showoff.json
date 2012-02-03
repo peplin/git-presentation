@@ -1,0 +1,7 @@
+{ "name": "Git Ready", "sections": [
+    {"section": "why"},
+    {"section": "git"},
+    {"section": "sourcecontrol"},
+    {"section": "walkthrough"},
+    {"section": "tutorial"}
+]}
