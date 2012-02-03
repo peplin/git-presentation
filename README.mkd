@@ -1,0 +1,6 @@
+git-presentation
+====================
+
+Thanks to Scott Chacon for the majority of the diagrams and text for these
+slides. I compiled this presentation from his "Git Basics" and "Getting Git"
+slide decks available at https://github.com/schacon/git-presentations.
