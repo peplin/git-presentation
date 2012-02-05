@@ -7,15 +7,18 @@
 # git clone
 
     $ git clone
-    $ git clone git@github.com:openxc/openxc-android
+    $ git clone https://github.com/rogerdudler/git-guide.git
     $ git clone git@github.com:openxc/openxc-android my-openxc
 
 !SLIDE commandline
 
 # Initializing a Repo
 
+    $ mkdir myproject
     $ cd myproject
+    $ touch README
     $ git init
+    Initialized empty Git repository in /tmp/myproject/.git/
 
 !SLIDE commandline
 
