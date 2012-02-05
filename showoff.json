@@ -3,5 +3,6 @@
     {"section": "git"},
     {"section": "sourcecontrol"},
     {"section": "walkthrough"},
-    {"section": "tutorial"}
+    {"section": "tutorial"},
+    {"section": "extra"}
 ]}

@@ -2,7 +2,7 @@
 
 # Getting a repo
 
-!SLIDE commandline incremental
+!SLIDE commandline
 
 # git clone
 
@@ -79,6 +79,23 @@
 
 !SLIDE
 
+# The Index
+
+!SLIDE full-page
+
+<img src="../img/image-255.jpeg" />
+
+!SLIDE full-page
+
+<img src="../img/image-256.jpeg" />
+
+!SLIDE full-page
+
+<img src="../img/image-257.jpeg" />
+
+
+!SLIDE
+
 # Adding and Committing
 
 !SLIDE full-page
@@ -92,10 +109,6 @@
 !SLIDE full-page
 
 <img src="../img/basic-151.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-152.jpeg" />
 
 !SLIDE full-page
 
@@ -135,6 +148,19 @@
 
 !SLIDE full-page
 
+<img src="../img/image-337.jpeg" />
+
+!SLIDE full-page
+
+<img src="../img/image-338.jpeg" />
+
+!SLIDE full-page
+
+<img src="../img/image-339.jpeg" />
+
+
+!SLIDE full-page
+
 <img src="../img/basic-162.jpeg" />
 
 !SLIDE full-page
@@ -155,10 +181,6 @@
 
 !SLIDE full-page
 
-<img src="../img/basic-167.jpeg" />
-
-!SLIDE full-page
-
 <img src="../img/basic-168.jpeg" />
 
 !SLIDE full-page
@@ -168,53 +190,3 @@
 !SLIDE full-page
 
 <img src="../img/basic-170.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-171.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-172.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-173.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-174.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-175.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-176.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-177.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-178.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/basic-179.jpeg" />
-
-
-!SLIDE full-page
-
-<img src="../img/image-337.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/image-338.jpeg" />
-
-!SLIDE full-page
-
-<img src="../img/image-339.jpeg" />
-
