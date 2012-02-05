@@ -2,6 +2,7 @@
 
 # Basic Commands Review
 
+* git help <command>
 * git init
 * git clone
 * git add
